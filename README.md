@@ -2,7 +2,7 @@
 <div align="center">
 
 # hey, I'm Rene Espina
-### `@rene-dev`
+### `reneespina-tech`
 
 *Frontend dev who thinks **design is a superpower**.
 I turn ideas into interfaces, pixel by pixel, with Figma, Framer open and coffee nearby.*
