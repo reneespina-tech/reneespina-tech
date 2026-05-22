@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://picrew.me/en/image_maker/2307052" width="150" align="right" />
+<img src="giorno.png" width="150" align="right" />
 
 ---
 
