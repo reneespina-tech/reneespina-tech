@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="giorno.png" width="350" height="350" align="center" margin-bottom="50" />
+<h2>Live Portfolio Website: https://rene-tech.framer.website/</h2>
 
 ---
 
