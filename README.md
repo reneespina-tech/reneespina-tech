@@ -38,7 +38,6 @@ Let's build something cool together.
 Reach me at: reneespina0929@gmail.com <br>
 Upwork: https://www.upwork.com/freelancers/~019d8ef0f18373a99a?mp_source=share
 </div>
----
 
 <!-- Footer -->
 <div align="center">
